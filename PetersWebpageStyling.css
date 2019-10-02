@@ -1,0 +1,9 @@
+
+body {background-color: rgb(203, 253, 255) !important}
+img {max-width: 100%; height: auto; width: 55px}
+
+h2 {font-weight: bold !important}
+
+.big-bold-links {font-weight: bold; font-size: 120%; text-decoration: underline}
+
+.small-links {font-size: 60%; text-decoration: underline}
